@@ -1,0 +1,11 @@
+C:\repos\PSCine\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\repos\PSCine\Domain\bin\Debug\net7.0\Domain.dll
+C:\repos\PSCine\Domain\bin\Debug\net7.0\Domain.pdb
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.dll
+C:\repos\PSCine\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\repos\PSCine\Domain\obj\Debug\net7.0\Domain.pdb
+C:\repos\PSCine\Domain\obj\Debug\net7.0\ref\Domain.dll

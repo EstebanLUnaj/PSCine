@@ -1,0 +1,15 @@
+C:\repos\PSCine\Aplication\bin\Debug\net7.0\Aplication.deps.json
+C:\repos\PSCine\Aplication\bin\Debug\net7.0\Aplication.dll
+C:\repos\PSCine\Aplication\bin\Debug\net7.0\Aplication.pdb
+C:\repos\PSCine\Aplication\bin\Debug\net7.0\Domain.dll
+C:\repos\PSCine\Aplication\bin\Debug\net7.0\Domain.pdb
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.csproj.CopyComplete
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.dll
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\Aplication.pdb
+C:\repos\PSCine\Aplication\obj\Debug\net7.0\ref\Aplication.dll
